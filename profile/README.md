@@ -3,7 +3,7 @@
 
 <!-- Contacts -->
 <p align="center">
-    <a href="mailto:jade.cong@qq.com" title="Email Address"><code>jade.cong@qq.com</code></a> │ <a href="./assets/images/wechat-public.png" title="WeChat Public"><code>OrderForce-Intelligence</code></a> │ <a href="https://orderforce-intelligence.github.io" title="GitHub Pages"><code>orderforce-intelligence.github.io</code></a>
+    <a href="mailto:jade.cong@qq.com" title="Email Address"><code>jade.cong@qq.com</code></a> │ <a href="../assets/images/wechat-public.png" title="WeChat Public"><code>OrderForce-Intelligence</code></a> │ <a href="https://orderforce-intelligence.github.io" title="GitHub Pages"><code>orderforce-intelligence.github.io</code></a>
 </p>
 
 <!-- Socials -->
