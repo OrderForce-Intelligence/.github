@@ -11,8 +11,8 @@
     <kbd>
         <a href="https://huggingface.co/OrderForce-Intelligence" title="Hugging Face - OrderForce-Intelligence"><img src="https://img.shields.io/badge/-OrderForce_Intelligence-F9CF38?style=flat&logo=Huggingface&logoColor=white" /></a>
         <a href="https://www.zhihu.com/people/OrderForce-Intelligence" title="ZhiHu - OrderForce-Intelligence"><img src="https://img.shields.io/badge/-OrderForce_Intelligence-1953DC?style=flat&logo=Zhihu&logoColor=white" /></a>
-        <a href="https://www.youtube.com/channel/UCtjkpErjX9X7VocnIJkIuZg" title="YouTube - @OrderForce-Intelligence"><img src="https://img.shields.io/badge/-OrderForce_Intelligence-EE0000?style=flat&logo=Youtube&logoColor=white" /></a>
-        <a href="https://space.bilibili.com/383666733" title="BiliBili - OrderForce-Intelligence"><img src="https://img.shields.io/badge/-OrderForce_Intelligence-F0648C?style=flat&logo=Bilibili&logoColor=white" /></a>
+        <a href="https://www.youtube.com/channel/" title="YouTube - @OrderForce-Intelligence"><img src="https://img.shields.io/badge/-OrderForce_Intelligence-EE0000?style=flat&logo=Youtube&logoColor=white" /></a>
+        <a href="https://space.bilibili.com/" title="BiliBili - OrderForce-Intelligence"><img src="https://img.shields.io/badge/-OrderForce_Intelligence-F0648C?style=flat&logo=Bilibili&logoColor=white" /></a>
     </kbd>
 </p>
 
