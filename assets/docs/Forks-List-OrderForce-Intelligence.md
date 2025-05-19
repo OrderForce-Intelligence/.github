@@ -5,3 +5,4 @@ OrderForce-Intelligence/elite_ros2[main]: https://github.com/OrderForce-Intellig
 OrderForce-Intelligence/hfd_ros2[main]: https://github.com/OrderForce-Intelligence/hfd_ros2.git -> https://github.com/JadeCong/hfd_ros2.git
 OrderForce-Intelligence/linktouch_ros2[main]: https://github.com/OrderForce-Intelligence/linktouch_ros2.git -> https://github.com/JadeCong/linktouch_ros2.git
 OrderForce-Intelligence/realman_ros2[main]: https://github.com/OrderForce-Intelligence/realman_ros2.git -> https://github.com/JadeCong/realman_ros2.git
+OrderForce-Intelligence/realsense_ros2[main]: https://github.com/OrderForce-Intelligence/realsense_ros2.git -> https://github.com/JadeCong/realsense_ros2.git
