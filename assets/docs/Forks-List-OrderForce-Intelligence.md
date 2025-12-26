@@ -1,4 +1,5 @@
 OrderForce-Intelligence/aubo_ros2[main]: https://github.com/OrderForce-Intelligence/aubo_ros2.git -> https://github.com/JadeCong/aubo_ros2.git
+OrderForce-Intelligence/chai3d[master]: https://github.com/OrderForce-Intelligence/chai3d.git -> https://github.com/chai3d/chai3d.git
 OrderForce-Intelligence/ctek_ros2[main]: https://github.com/OrderForce-Intelligence/ctek_ros2.git -> https://github.com/JadeCong/ctek_ros2.git
 OrderForce-Intelligence/demo_ros2[main]: https://github.com/OrderForce-Intelligence/demo_ros2.git -> https://github.com/JadeCong/demo_ros2.git
 OrderForce-Intelligence/elite_ros2[main]: https://github.com/OrderForce-Intelligence/elite_ros2.git -> https://github.com/JadeCong/elite_ros2.git
