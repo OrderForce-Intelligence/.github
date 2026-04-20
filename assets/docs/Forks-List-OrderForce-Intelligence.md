@@ -13,6 +13,7 @@ OrderForce-Intelligence/IsaacSim[main]: https://github.com/OrderForce-Intelligen
 OrderForce-Intelligence/IsaacSim-ros_workspaces[main]: https://github.com/OrderForce-Intelligence/IsaacSim-ros_workspaces.git -> https://github.com/isaac-sim/IsaacSim-ros_workspaces.git
 OrderForce-Intelligence/linktouch_ros2[main]: https://github.com/OrderForce-Intelligence/linktouch_ros2.git -> https://github.com/JadeCong/linktouch_ros2.git
 OrderForce-Intelligence/openrave[master]: https://github.com/OrderForce-Intelligence/openrave.git -> https://github.com/rdiankov/openrave.git
+OrderForce-Intelligence/orderforce_ros2[main]: https://github.com/OrderForce-Intelligence/orderforce_ros2.git -> https://github.com/JadeCong/orderforce_ros2.git
 OrderForce-Intelligence/orocos_kinematics_dynamics[master]: https://github.com/OrderForce-Intelligence/orocos_kinematics_dynamics.git -> https://github.com/orocos/orocos_kinematics_dynamics.git
 OrderForce-Intelligence/realman_ros2[main]: https://github.com/OrderForce-Intelligence/realman_ros2.git -> https://github.com/JadeCong/realman_ros2.git
 OrderForce-Intelligence/realsense_ros2[main]: https://github.com/OrderForce-Intelligence/realsense_ros2.git -> https://github.com/JadeCong/realsense_ros2.git
