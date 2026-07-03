@@ -23,5 +23,6 @@ OrderForce-Intelligence/orderforce_ros2[main]: https://github.com/OrderForce-Int
 OrderForce-Intelligence/orocos_kinematics_dynamics[master]: https://github.com/OrderForce-Intelligence/orocos_kinematics_dynamics.git -> https://github.com/orocos/orocos_kinematics_dynamics.git
 OrderForce-Intelligence/realman_ros2[main]: https://github.com/OrderForce-Intelligence/realman_ros2.git -> https://github.com/JadeCong/realman_ros2.git
 OrderForce-Intelligence/realsense_ros2[main]: https://github.com/OrderForce-Intelligence/realsense_ros2.git -> https://github.com/JadeCong/realsense_ros2.git
+OrderForce-Intelligence/tianji_ros2[main]: https://github.com/OrderForce-Intelligence/tianji_ros2.git -> https://github.com/JadeCong/tianji_ros2.git
 OrderForce-Intelligence/ur_ros2[main]: https://github.com/OrderForce-Intelligence/ur_ros2.git -> https://github.com/JadeCong/ur_ros2.git
 OrderForce-Intelligence/xjcsensor_ros2[main]: https://github.com/OrderForce-Intelligence/xjcsensor_ros2.git -> https://github.com/JadeCong/xjcsensor_ros2.git
