@@ -1,4 +1,3 @@
-OrderForce-Intelligence/application_ros2[main]: https://github.com/OrderForce-Intelligence/application_ros2.git -> https://github.com/JadeCong/application_ros2.git
 OrderForce-Intelligence/aubo_ros2[main]: https://github.com/OrderForce-Intelligence/aubo_ros2.git -> https://github.com/JadeCong/aubo_ros2.git
 OrderForce-Intelligence/chai3d[master]: https://github.com/OrderForce-Intelligence/chai3d.git -> https://github.com/chai3d/chai3d.git
 OrderForce-Intelligence/ctek_ros2[main]: https://github.com/OrderForce-Intelligence/ctek_ros2.git -> https://github.com/JadeCong/ctek_ros2.git
@@ -8,7 +7,6 @@ OrderForce-Intelligence/estun_ros2[main]: https://github.com/OrderForce-Intellig
 OrderForce-Intelligence/fcl[master]: https://github.com/OrderForce-Intelligence/fcl.git -> https://github.com/flexible-collision-library/fcl.git
 OrderForce-Intelligence/forcedimension_ros2[main]: https://github.com/OrderForce-Intelligence/forcedimension_ros2.git -> https://github.com/JadeCong/forcedimension_ros2.git
 OrderForce-Intelligence/galbot_ros2[main]: https://github.com/OrderForce-Intelligence/galbot_ros2.git -> https://github.com/JadeCong/galbot_ros2.git
-OrderForce-Intelligence/gui_ros2[main]: https://github.com/OrderForce-Intelligence/gui_ros2.git -> https://github.com/JadeCong/gui_ros2.git
 OrderForce-Intelligence/hal_ros2[main]: https://github.com/OrderForce-Intelligence/hal_ros2.git -> https://github.com/JadeCong/hal_ros2.git
 OrderForce-Intelligence/hfd_ros2[main]: https://github.com/OrderForce-Intelligence/hfd_ros2.git -> https://github.com/JadeCong/hfd_ros2.git
 OrderForce-Intelligence/hikrobot_ros2[main]: https://github.com/OrderForce-Intelligence/hikrobot_ros2.git -> https://github.com/JadeCong/hikrobot_ros2.git
