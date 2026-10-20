@@ -1,4 +1,4 @@
-name: Gen Followers List - OrderForce-Intelligence
+name: Gen Followers List
 
 run-name: Gen Followers List - OrderForce-Intelligence
 
@@ -24,12 +24,12 @@ concurrency:
 
 jobs:
   gen-followers-list:
-    name: Gen Forks List
+    name: Gen Followers List for OrderForce-Intelligence
     runs-on: [self-hosted, Linux, ARM64, OrderForce-Intelligence, runner-1]
     
     steps:
       - name: Check out the repository to the runner
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       
       - name: Configure git
         run: |

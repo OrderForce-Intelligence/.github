@@ -1,4 +1,4 @@
-name: Gen Forkcounts List - OrderForce-Intelligence
+name: Gen Forkcounts List
 
 run-name: Gen Forkcounts List - OrderForce-Intelligence
 
@@ -24,12 +24,12 @@ concurrency:
 
 jobs:
   gen-forkcounts-list:
-    name: Gen Forkcounts List
+    name: Gen Forkcounts List for OrderForce-Intelligence
     runs-on: [self-hosted, Linux, ARM64, OrderForce-Intelligence, runner-1]
     
     steps:
       - name: Check out the repository to the runner
-        uses: actions/checkout@v4
+        uses: actions/checkout@v7
       
       - name: Configure git
         run: |
