@@ -1,2 +1,59 @@
-OrderForce-Intelligence/HFD-6-Hapitc-Device[main]: https://github.com/OrderForce-Intelligence/HFD-6-Hapitc-Device.git
-  - danghoangviet20: https://github.com/danghoangviet20
+OrderForce-Intelligence/HFD-6-Hapitc-Device[{
+	"message": "API rate limit exceeded for user ID 16516205. If you reach out to GitHub Support for help, please include the request ID 9706:30477E:19388AB:516DD70:6AFDAB62 and timestamp 2026-11-18 13:42:58 UTC. For more on scraping GitHub and how it may affect your rights, please review our Terms of Service (https:\/\/docs.github.com\/en\/site-policy\/github-terms\/github-terms-of-service)",
+	"documentation_url": "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+	"status": "403"
+}]: https://github.com/OrderForce-Intelligence/HFD-6-Hapitc-Device.git
+  - "documentation_url":: https://github.com/"documentation_url":
+  - "https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",: https://github.com/"https://docs.github.com/en/rest/using-the-rest-api/getting-started-with-the-rest-api#rate-limiting",
+  - "message":: https://github.com/"message":
+  - "API: https://github.com/"API
+  - rate: https://github.com/rate
+  - limit: https://github.com/limit
+  - exceeded: https://github.com/exceeded
+  - for: https://github.com/for
+  - user: https://github.com/user
+  - ID: https://github.com/ID
+  - 16516205.: https://github.com/16516205.
+  - If: https://github.com/If
+  - you: https://github.com/you
+  - reach: https://github.com/reach
+  - out: https://github.com/out
+  - to: https://github.com/to
+  - GitHub: https://github.com/GitHub
+  - Support: https://github.com/Support
+  - for: https://github.com/for
+  - help,: https://github.com/help,
+  - please: https://github.com/please
+  - include: https://github.com/include
+  - the: https://github.com/the
+  - request: https://github.com/request
+  - ID: https://github.com/ID
+  - 9722:1C0842:171700E:4A6DA3C:6AFDAB62: https://github.com/9722:1C0842:171700E:4A6DA3C:6AFDAB62
+  - and: https://github.com/and
+  - timestamp: https://github.com/timestamp
+  - 2026-11-18: https://github.com/2026-11-18
+  - 13:42:58: https://github.com/13:42:58
+  - UTC.: https://github.com/UTC.
+  - For: https://github.com/For
+  - more: https://github.com/more
+  - on: https://github.com/on
+  - scraping: https://github.com/scraping
+  - GitHub: https://github.com/GitHub
+  - and: https://github.com/and
+  - how: https://github.com/how
+  - it: https://github.com/it
+  - may: https://github.com/may
+  - affect: https://github.com/affect
+  - your: https://github.com/your
+  - rights,: https://github.com/rights,
+  - please: https://github.com/please
+  - review: https://github.com/review
+  - our: https://github.com/our
+  - Terms: https://github.com/Terms
+  - of: https://github.com/of
+  - Service: https://github.com/Service
+  - (https:\/\/docs.github.com\/en\/site-policy\/github-terms\/github-terms-of-service)",: https://github.com/(https:\/\/docs.github.com\/en\/site-policy\/github-terms\/github-terms-of-service)",
+  - "status":: https://github.com/"status":
+  - "403": https://github.com/"403"
+  - {: https://github.com/{
+  - }: https://github.com/}
